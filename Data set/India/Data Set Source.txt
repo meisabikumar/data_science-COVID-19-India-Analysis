@@ -1,0 +1,14 @@
+
+
+state_wise.xlsx = https://api.covid19india.org/csv/latest/state_wise.csv
+
+covid_19_india.csv =https://www.kaggle.com/sudalairajkumar/covid19-in-india?elect=covid_19_india.csv
+
+daily cases covid-19: = https://ourworldindata.org/
+
+statewise_tested_numbers_data.csv = https://api.covid19india.org/csv/latest/statewise_tested_numbers_data.csv
+
+tested_numbers_icmr_data.csv = https://api.covid19india.org/csv/latest/tested_numbers_icmr_data.csv
+
+case_time_series.csv=https://api.covid19india.org/csv/latest/case_time_series.csv
+	

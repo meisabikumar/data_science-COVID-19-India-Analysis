@@ -1,0 +1,5 @@
+owid-covid-data.xlsx =  https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.xlsx
+
+covid_19_data.csv = https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=covid_19_data.csv
+
+time_series_covid_19_confirmed = https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=time_series_covid_19_confirmed.csv
